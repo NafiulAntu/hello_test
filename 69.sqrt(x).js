@@ -23,5 +23,5 @@ function mySqrt(x) {
 // Example tests:
 console.log(mySqrt(4));  // Output: 2
 console.log(mySqrt(8));  // Output: 2
-console.log(mySqrt(25)); // Output: 5
+console.log(mySqrt(25));
 console.log(mySqrt(10)); 
